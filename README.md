@@ -43,12 +43,6 @@ Customize the dashboard view with interactive filters:
 
 ---
 
-## 📈 Preview
-
-*(Optional: Add screenshots or GIFs of your dashboard here for better visualization.)*
-
----
-
 ## 📦 Installation & Usage
 
 1. Clone the repository:  
